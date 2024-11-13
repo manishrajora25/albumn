@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.head{
+    text-align: center;
+   
+}
+.the{
+    border-radius: 5px 0px 0px 5px;
+    padding: 4px 10px;
+}
+.this{
+    border-radius: 0px 5px 5px 0px;
+    padding: 4px 10px;
+}
+.main button:hover{
+    color: white;
+    background-color: rgb(119, 116, 116);
+}
+.time{
+    margin-left: 100px;
+}
